@@ -1,0 +1,20 @@
+.topdiv {
+    background-color: rgb(48, 117, 234);
+    min-height: 250px;
+    margin: 10px;
+    border-radius: 4px;
+    color: white;
+}
+.divmiddle  {
+    background-color: rgb(48, 117, 234);
+    min-height: 200px;
+    color: white;
+
+}
+
+.divbottom {
+    background-color: rgb(48, 117, 234);
+    min-height: 200px;
+    color: white;
+    margin: 10px;
+}
